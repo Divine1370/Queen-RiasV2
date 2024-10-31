@@ -9,20 +9,20 @@ const {
 /*--------------------------------------------*/
 
 // Owner
-global.ownername = '𝐓𝐨𝐱𝐱𝐢𝐜 𝐁𝐨𝐲' //ur owner name
+global.ownername = '𝕯𝖆𝖛𝖎𝖉' //ur owner name
 /*--------------------------------------------*/
 
 // Information
 global.botname = '𝑸𝒖𝒆𝒆𝒏 𝑹𝒊𝒂𝒔 𝑽𝟐' //ur bot name
-global.ownernumber = '2348165846414' //ur owner number
-global.premium = ["2348165846414"] // Premium User
+global.ownernumber = '2349012640680' //ur owner number
+global.premium = ["2348109243618"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
 global.adminevent = false //show promote/demote message
@@ -30,7 +30,7 @@ global.groupevent = false //show update messages in group chat
 /*-----------------------------------------------------*/
 
 // Telegram
-global.OWNER = ["2348165846414"]
+global.OWNER = ["2349012640680"]
 global.OWNER_NAME = "𝑻𝑶𝑿𝑿𝑰𝑪 𝑩𝑶𝒀"
 global.BOT_TOKEN = '-'
 global.APIKeys = {
@@ -50682,8 +50682,8 @@ global.wagc = "https://whatsapp.com/channel/0029Vao1R2n9sBIC9sPhvI1P"
 global.themeemoji = '🖕'
 global.wm = "𝑸𝑼𝑬𝑬𝑵 𝑹𝑰𝑨𝑺 𝑽𝟐"
 global.botscript = 'https://whatsapp.com/channel/0029Vao1R2n9sBIC9sPhvI1P' //script link
-global.packname = "𝑹𝒊𝒂𝒔 𝑳𝒐𝒗𝒆𝒔"
-global.author = "𝑻𝒐𝒙𝒙𝒊𝒄"
+global.packname = "𝕵𝖊 𝖛𝖔𝖎𝖘 𝖘𝖙𝖎𝖈𝖐𝖊𝖗 𝖕𝖆𝖈𝖐"
+global.author = "𝕯𝖆𝖛𝖎𝖉"
 global.creator = "2348165846414@s.whatsapp.net"
 global.xchannel = {
     	jid: '120363336528578108@newsletter'
